@@ -1,0 +1,10 @@
+I tempi composti sono quelli in cui ogni battito può essere suddiviso in tre parti uguali. 
+Questi tempi spesso creano una sensazione di "ondeggiamento" o di swing.
+
+Esempi di Tempi Composti:
+
+6/8 (Sei ottavi): Ogni misura ha sei battiti, e ogni battito è una croma (eighth note), ma viene percepito come due gruppi di tre.
+
+9/8 (Nove ottavi): Ogni misura ha nove battiti, percepiti come tre gruppi di tre.
+
+12/8 (Dodici ottavi): Ogni misura ha dodici battiti, percepiti come quattro gruppi di tre.

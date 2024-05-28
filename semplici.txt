@@ -1,0 +1,10 @@
+I tempi semplici sono quelli in cui ogni battito può essere suddiviso in due parti uguali. 
+Questi sono i tempi più comuni nella musica occidentale.
+
+Esempi di Tempi Semplici:
+
+4/4 (Quattro quarti): Ogni misura ha quattro battiti, e ogni battito è una semiminima (quarter note).
+
+3/4 (Tre quarti): Ogni misura ha tre battiti, e ogni battito è una semiminima (quarter note).
+
+2/4 (Due quarti): Ogni misura ha due battiti, e ogni battito è una semiminima (quarter note).
